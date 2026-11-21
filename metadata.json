@@ -1,0 +1,8 @@
+{
+  "name": "Clearhaven Cleaning",
+  "description": "Residential and studio cleaning services with live booking calendar, service packages, verified customer reviews, live concierge chat, and encrypted checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
